@@ -1,0 +1,170 @@
+
+
+body
+{background-color: rgb(252, 249, 249);
+    margin: 200px;}
+
+
+
+header div{
+    display: inline-block;}
+
+h1{
+    font-size:xx-large;
+    font-family: 'Pacifico', cursive;}
+
+h3{
+    font-size:xx-small;
+    color: gray;
+    opacity: 0.9;}
+
+
+    
+.first
+{display: inline-block;}
+
+
+
+
+#img1
+
+{float: right;
+margin: 50px;}
+
+
+
+#secSection img:nth-child(6){
+    margin-right: 5px;}
+
+
+header{
+    border-bottom: 3px dashed gray;
+    height: 70px;
+    
+    width: 725px;
+}
+
+footer p
+ {text-align: center;
+    color: gray;
+    margin-top: 30px;
+    font-size: 13px;
+    margin-bottom: 5px;}
+
+
+
+    section{
+        width: 725px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.thirdSection{
+    display: inline-block;
+}
+
+
+h2{
+    font-size: 40px;}
+
+h4{
+    font-size: 13px;
+    color: gray;opacity: 0.7;}
+
+   
+
+
+#thirdSection{
+    margin: 10px;}
+
+#mainPrintIcon{
+    float: right;
+    margin: 20px;0px;}
+
+    
+
+#chocoPimg{
+    margin-left: 0px;
+    margin-right:20px ;
+    
+    width: 100%;}
+
+
+    article:nth-child(3) p
+    {
+      width: 90%;
+        margin-bottom: 50px;
+        margin-top: 50px;
+        text-indent: 35px;
+        text-align: justify;
+    font-size: 15px;
+    color: rgb(100, 98, 98);
+    opacity: 0.9;
+    
+    }
+
+span{margin-left: 20px;}
+
+
+#input1
+{background-image: url("https://github.com/LTUC/amman-irbid-201d24/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");width: 90%;height: 300px;margin-left: 50px;}
+article:nth-child(4)
+{
+height: 300px;
+margin-bottom: 20px;
+display: inline-block;
+margin: 45px 90px 0px 50px;
+}
+article:nth-child(4) ul 
+{
+display: block;
+
+
+}
+label{
+    color: rgb(42, 50, 53);
+    font-size: 16px ;}
+
+input{margin-bottom: 14px;
+    color: rgb(42, 50, 53);}
+
+
+.clint{margin-left: 50px;}
+.clint{display: inline-block;}
+.clint h2{font-size: 15px;}
+
+button
+{width: 150px;
+    height: 40px;
+     background-color: rgb(180, 68, 133);
+     opacity: 0.8;
+     color: white;
+position:relative;
+bottom: -7px;
+right: 50px;}
+
+#theLast
+{margin: 20px;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+    height: 100px;
+    padding-bottom: 60px;}
+
+#theLast img
+{margin: 20px 5px 0px 20px}
+
+#theLast div
+{width: 450px;
+    line-height:20px;
+    margin: 0px;}
+    
+
+#theLast div h2
+{font-size: 20px;
+     color: rgb(37, 36, 36);
+   margin-bottom: 20px;}
+
+
+#smallLogoIcon
+{margin:0px;}
+
