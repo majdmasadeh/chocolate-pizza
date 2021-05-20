@@ -90,7 +90,7 @@ h4{
     width: 100%;}
 
 
-    article:nth-child(3) p
+ article:nth-child(3) p
     {
       width: 90%;
         margin-bottom: 50px;
@@ -110,10 +110,10 @@ span{margin-left: 20px;}
 {background-image: url("https://github.com/LTUC/amman-irbid-201d24/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");width: 90%;height: 300px;margin-left: 50px;}
 article:nth-child(4)
 {
-height: 300px;
-margin-bottom: 20px;
+height: 400px;
 display: inline-block;
-margin: 45px 90px 0px 50px;
+margin: 0px;
+margin-bottom: 20px;
 }
 article:nth-child(4) ul 
 {
@@ -133,15 +133,7 @@ input{margin-bottom: 14px;
 .clint{display: inline-block;}
 .clint h2{font-size: 15px;}
 
-button
-{width: 150px;
-    height: 40px;
-     background-color: rgb(180, 68, 133);
-     opacity: 0.8;
-     color: white;
-position:relative;
-bottom: -7px;
-right: 50px;}
+
 
 #theLast
 {margin: 20px;
@@ -157,13 +149,22 @@ right: 50px;}
 {width: 450px;
     line-height:20px;
     margin: 0px;}
-    
+
 
 #theLast div h2
 {font-size: 20px;
      color: rgb(37, 36, 36);
    margin-bottom: 20px;}
 
+button
+{width: 150px;
+    height: 45px;
+     background-color: rgb(180, 68, 133);
+     opacity: 0.8;
+     color: white;
+position:relative;
+bottom: -7px;
+right: 50px;}
 
 #smallLogoIcon
 {margin:0px;}
