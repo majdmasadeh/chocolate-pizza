@@ -107,7 +107,14 @@ span{margin-left: 20px;}
 
 
 #input1
-{background-image: url("https://github.com/LTUC/amman-irbid-201d24/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");width: 90%;height: 300px;margin-left: 50px;}
+{background-image: url("https://github.com/LTUC/amman-irbid-201d24/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+    width: 100%;
+    height: 300px;
+    margin-left: 50px;
+    display: block;
+
+
+}
 article:nth-child(4)
 {
 height: 400px;
@@ -128,6 +135,15 @@ label{
 input{margin-bottom: 14px;
     color: rgb(42, 50, 53);}
 
+    #input2
+    {background-image: url("https://github.com/LTUC/amman-irbid-201d24/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+        width:100%;
+        height: 100px;
+        margin-left: 50px;
+        text-align: justify;
+        display: block;
+
+    }
 
 .clint{margin-left: 50px;}
 .clint{display: inline-block;}
@@ -137,6 +153,7 @@ input{margin-bottom: 14px;
 
 #theLast
 {margin: 20px;
+    margin-top: 30px;
     border-top: 2px solid gray;
     border-bottom: 2px solid gray;
     height: 100px;
@@ -159,12 +176,14 @@ input{margin-bottom: 14px;
 button
 {width: 150px;
     height: 45px;
-     background-color: rgb(180, 68, 133);
+     background-color: rgb(224, 77, 77);
      opacity: 0.8;
      color: white;
 position:relative;
 bottom: -7px;
-right: 50px;}
+right: 50px;
+float: right;
+}
 
 #smallLogoIcon
 {margin:0px;}
